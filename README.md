@@ -1,5 +1,4 @@
-# Creating the README.md file content in English
-readme_content_en = """
+
 # Statistical Analysis Project  
 
 This repository contains various modules and resources for conducting statistical analysis, focusing on regression, model evaluation, and statistical inference.  
